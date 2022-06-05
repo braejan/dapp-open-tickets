@@ -1,0 +1,13 @@
+{
+  "name": "dapp-open-tickets",
+  "version": "1.0.0",
+  "description": "Decentralized application for OpenTicket smart contract.\"",
+  "main": "index.js",
+  "repository": "git@github.com:braejan/dapp-open-tickets.git",
+  "author": "Braejan Arias <ing.brayanarias@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "devDependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
